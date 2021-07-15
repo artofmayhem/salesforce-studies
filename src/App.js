@@ -62,7 +62,7 @@ function App() {
                 <ul style={{textAlign: 'left'}}>
                     <li>Inquiry</li>
                     <h6>WHen the visitor fills out a form, or is returning to the site both have your permission to
-                        market to them. An inquiry turns into an MCL or <em style={{fontSize: '26px'}}>Marketing
+                        market to them. An inquiry turns into an MCL or <em style={{fontSize: '18px'}}>Marketing
                             Captured Lead</em> when you confirm a match
                         with your Ideal Customer Profile or ICP. How are they? Why would we want them to be interested
                         in our services?</h6>
