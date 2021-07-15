@@ -9,11 +9,11 @@ function App() {
                 <h1>Salesforce Tutorial Information</h1>
                 <h3>What is CRM</h3>
                 <h5>- CRM stands for <em>Customer Relationship Management</em></h5>
-                <h4> what is does is stores customer contact information like names, address, and phone
+                <h4> What is does is stores customer contact information like names, address, and phone
                     numbers <br/> All this while tracking customer
                     activity like website visits, phone calls, email and more</h4>
                 <br/><br/>
-                <h5>Other processes that crm handles</h5>
+                <h5>Other processes that CRM handles</h5>
                 <ul style={{textAlign: 'left'}}>
                     <li>Deal tracking</li>
                     <li>Contact, lead and opportunity management</li>
@@ -48,7 +48,7 @@ function App() {
                 <h6>The basic formula is <em>MROI = (Marketing Value - Marketing Cost) / Marketing Cost</em></h6>
                 <hr className={'breaker'}/>
                 <div style={{height: '10vh'}}/>
-                <h3>WHat are MQLs and SQLs and how does Salesforce help to manage them?</h3>
+                <h3>What are MQLs and SQLs and how does Salesforce help to manage them?</h3>
                 <h6>MQL refers to a lead that is more likely to become a customer compared to other leads based on lead
                     intelligence and is usually conveyed by closed-loop reporting. SQL means that the sales team has
                     qualified this lead as a potential customer. The SQL is in the buying cycle, while the MQL is not
@@ -58,11 +58,11 @@ function App() {
                     sales and marketing process instead of pitting them against one another in a versus state.</h6>
                 <h6>Salesforce, simply put, is a tool that helps to manage the successful conversion of turning an MQL
                     into an SQL.</h6>
-                <h3>How to Generate and Calculate Lead Generation</h3>
+                <h3>How to generate and calculate lead generation</h3>
                 <h5>Step by step process</h5>
                 <ul style={{textAlign: 'left'}}>
                     <li>Inquiry</li>
-                    <h6>WHen the visitor fills out a form, or is returning to the site both have your permission to
+                    <h6>When the visitor fills out a form, or is returning to the site both have your permission to
                         market to them. An inquiry turns into an MCL or <em style={{fontSize: '18px'}}>Marketing
                             Captured Lead</em> when you confirm a match
                         with your Ideal Customer Profile or ICP. How are they? Why would we want them to be interested
@@ -98,7 +98,7 @@ function App() {
                     NEEDED</em></h6>
                 <ul style={{textAlign: 'left'}}>
                     <li>To close 25 deals with a 25% win rate 100 opportunities are needed</li>
-                    <li>For 100 opportunities with a 50% SQL : Opp conversion rate 200 SQLs are needed</li>
+                    <li>For 100 opportunities with a 50% SQL : opp conversion rate 200 SQLs are needed</li>
                     <li>For 200 SQLs with a 50% MQL : SQL conversion rate 400 MQLs are needed</li>
                     <li>For 400 MQLs with a 50% MCL : MQL conversion rate 800 MCLs are needed</li>
                     <li>For 800 MCLs with a 3% inquiry : MCL conversion rate 26,666 inquiries as needed</li>
