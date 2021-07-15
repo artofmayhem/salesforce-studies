@@ -103,7 +103,7 @@ function App() {
                     <li>For 800 MCLs with a 3% inquiry : MCL conversion rate 26,666 inquiries as needed</li>
                 </ul>
                 <h4>In this way it's easy to discern why the work of the email marketing team of Progressive Leasing is
-                    so crucial to so many businesses to generate motion through the sales funnel</h4>
+                    so crucial to so many businesses in generating motion through the sales funnel</h4>
             </header>
         </div>
     );
