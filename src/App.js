@@ -47,7 +47,7 @@ function App() {
                     small to medium-size businesses. </h4>
                 <h6>The basic formula is <em>MROI = (Marketing Value - Marketing Cost) / Marketing Cost</em></h6>
                 <hr className={'breaker'}/>
-                <div style={{height: '10vh'}}/>
+                <div style={{height: '5vh'}}/>
                 <h3>What are MQLs and SQLs and how does Salesforce help to manage them?</h3>
                 <h6>MQL refers to a lead that is more likely to become a customer compared to other leads based on lead
                     intelligence and is usually conveyed by closed-loop reporting. SQL means that the sales team has
@@ -84,7 +84,7 @@ function App() {
                     <h6>This is when an SQL is finally turned over to sales to work it's magic and close the deal</h6>
                 </ul>
                 <hr className={'breaker'}/>
-                <div style={{height: '10vh'}}/>
+                <div style={{height: '5vh'}}/>
                 <h3>Mastering the "Lead Waterfall"</h3>
                 <h4>Calculating meaningful lead generation goals requires looking at and understanding every stage of
                     the sales funnel. </h4>
