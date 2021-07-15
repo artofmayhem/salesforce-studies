@@ -100,7 +100,7 @@ function App() {
                     <li>For 100 opportunities with a 50% SQL : Opp conversion rate 200 SQLs are needed</li>
                     <li>For 200 SQLs with a 50% MQL : SQL conversion rate 400 MQLs are needed</li>
                     <li>For 400 MQLs with a 50% MCL : MQL conversion rate 800 MCLs are needed</li>
-                    <li>For 800 MCLs with qa 3% inquiry : MCL conversion rate 26,666 inquiries as needed</li>
+                    <li>For 800 MCLs with a 3% inquiry : MCL conversion rate 26,666 inquiries as needed</li>
                 </ul>
                 <h4>In this way it's easy to discern why the work of the email marketing team of Progressive Leasing is
                     so crucial to so many businesses to generate motion through the sales funnel</h4>
