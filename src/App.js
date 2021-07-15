@@ -8,7 +8,7 @@ function App() {
                 <img src={Salesforce} className={'salesforce-logo'} alt={'Salesforce company logo'}/>
                 <h1>Salesforce Tutorial Information</h1>
                 <h3>What is CRM</h3>
-                <h5>- CRM stands for customer relationship management</h5>
+                <h5>- CRM stands for <em>Customer Relationship Management</em></h5>
                 <h4> what is does is stores customer contact information like names, address, and phone
                     numbers <br/> All this while tracking customer
                     activity like website visits, phone calls, email and more</h4>
