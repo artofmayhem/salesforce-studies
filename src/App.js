@@ -49,13 +49,14 @@ function App() {
                 <hr className={'breaker'}/>
                 <div style={{height: '10vh'}}/>
                 <h3>WHat are MQLs and SQLs and how does Salesforce help to manage them?</h3>
-                <h5>MQL refers to a lead that is more likely to become a customer compared to other leads based on lead
+                <h6>MQL refers to a lead that is more likely to become a customer compared to other leads based on lead
                     intelligence and is usually conveyed by closed-loop reporting. SQL means that the sales team has
                     qualified this lead as a potential customer. The SQL is in the buying cycle, while the MQL is not
-                    ready for that buying stage just yet.</h5>
-                <h4>This way of defining MQLs and SQLs in a modern Marketing and sales environment is essential to
+                    ready for that buying stage just yet.</h6>
+                <h6>This way of defining MQLs and SQLs in a modern Marketing and sales environment is essential to
                     understanding the idea that sales and marketing should be working together throughout the entire
-                    sales and marketing process instead of pitting them against one another in a versus state.</h4>
+                    sales and marketing process instead of pitting them against one another in a versus state.</h6>
+                <h6>Salesforce, simply put, is a tool that helps to manage the successful conversion of turning an MQL into an SQL.</h6>
                 <h3>How to Generate and Calculate Lead Generation</h3>
                 <h5>Step by step process</h5>
                 <ul style={{textAlign: 'left'}}>
