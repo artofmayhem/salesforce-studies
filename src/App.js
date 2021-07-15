@@ -43,7 +43,7 @@ function App() {
                     <li>Creating a formula for calculating MROI</li>
                 </ul>
                 <h4>Note: Email marketing ROI is generally highly profitable. An average email ROI is 3800% which is why
-                    so many companies have very rich email marketing strategies. THis especially pertains to SMBs, or
+                    so many companies have very rich email marketing strategies. This especially pertains to SMBs, or
                     small to medium-size businesses. </h4>
                 <h6>The basic formula is <em>MROI = (Marketing Value - Marketing Cost) / Marketing Cost</em></h6>
                 <hr className={'breaker'}/>
@@ -56,7 +56,8 @@ function App() {
                 <h6>This way of defining MQLs and SQLs in a modern Marketing and sales environment is essential to
                     understanding the idea that sales and marketing should be working together throughout the entire
                     sales and marketing process instead of pitting them against one another in a versus state.</h6>
-                <h6>Salesforce, simply put, is a tool that helps to manage the successful conversion of turning an MQL into an SQL.</h6>
+                <h6>Salesforce, simply put, is a tool that helps to manage the successful conversion of turning an MQL
+                    into an SQL.</h6>
                 <h3>How to Generate and Calculate Lead Generation</h3>
                 <h5>Step by step process</h5>
                 <ul style={{textAlign: 'left'}}>
